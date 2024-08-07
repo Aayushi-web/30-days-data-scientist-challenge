@@ -1,1 +1,11 @@
 #Day 1 of data science === Done
+##the life cycle of DATA science are
+#===========================================================================================================
+1. start
+2.understanding the business problem
+3.gathering data from difference source such as csv, sql, from website or any other source
+4. wrangle the data 0r applying EDA to handle the data as per need
+5.finding insighs from it by analysing, applying machine learning algorithm 
+6. reporting and deployment(if client give green sign or acceptd our deeds)
+7. congratulations on completion
+#=============================================================================================================
